@@ -1,0 +1,297 @@
+#hero_section .hero_bg{
+    background-image: url(/boostrap/08-07-25/assets/images/hero-bg.jpg);
+   max-width:100%;
+    height: 700px;
+    object-fit:contain;
+}
+
+.header-img{
+    background-image: url(/bootsrap/task/8-07-25/assets/images/hero-bg.jpg);
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+
+}
+
+/* navbar-section */
+#navbar .s{
+    color: peru;
+}
+/* navbar-section end */
+
+/* hero section start */
+         
+   #navbar-section a{
+        font-family: 'Roboto', sans-serif;
+        font-weight: bold;
+
+   }
+    #hero_section .fresh{
+            color: orange;
+     margin-left: 8%;
+     letter-spacing: 5px;
+    }
+    #hero_section .fruits{
+        font-family: 'Roboto', sans-serif;
+            font-size: 20%;
+
+     margin-left: 8%;
+     
+    }
+
+     #hero_section .fruits h1,h6{
+        font-size: 65px;
+        font-family: 'Roboto', sans-serif;
+     }
+
+      #hero_section .hero-button1{
+            background-color: orange;
+            border: none;
+                    font-family: 'Roboto', sans-serif;
+
+      }
+      #hero_section .hero-button2{
+       border-color: orange;
+               font-family: 'Roboto', sans-serif;
+   
+   }
+
+/* hero section end */
+
+/*Our Product Section */
+#our_product{
+    border: none;
+}
+#our_product .our_product_heading{
+    color: orange;
+}
+#our_product .hrline{
+    width: 40%;
+    text-align:center;
+    color: orange;
+}
+#our_product .our_product_text{
+    width: 35%;
+    
+}
+#our_product .add_to_cart_btn{
+    background-color: orange;
+    border: none;
+}
+#our_product .card_img1{
+    width: 40vh;
+}
+
+
+
+
+/* services section start */
+
+#services .shipping-btn {
+    color: orange;
+    border:3px dotted orange;
+}
+#services .support-btn  {
+        color: orange;
+    border:3px dotted orange;
+}
+#services .Refund-btn {
+        color: orange;
+    border:3px dotted orange;
+}
+
+
+
+
+/* services section end */
+
+
+
+/*Deal Section Started */
+#deal_section .deal-bg{
+    background-image: url(/bootsrap/task/8-07-25/assets/images/breadcrumb-bg.jpg);
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    margin-top: 10%;
+}
+
+
+#deal_section .deal_time_cart {
+    border:4px solid orange;
+    width: 30%;
+    h2{
+        color: orange;
+        
+    }
+}
+#deal_section .deal_section_heading{
+    color: orange;
+    font-weight: bold;
+}
+#deal_section  .add_to_cart_btn{
+    background-color: orange;
+    border: none;
+    width: 150px;
+}
+
+
+
+/* Shop Owner Section*/
+#shop_owner_section .avtar2{
+    margin-top: 200px;
+    width: 120px;
+}
+#shop_owner_section .shop_owner_section_text{
+    width:600px ;
+}
+
+
+/* /Fruitikha section/ */
+#fruitkha_section .fruitkha_section_heading{
+    color: orange;
+
+}
+#fruitkha_section .fruitkha_section_img{
+    width: 500px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 0px 10px;
+
+}
+#fruitkha_section .know_more_btn{
+    border:none;
+    width: 140px;
+    background-color: orange;
+
+
+}
+#fruitkha_section .h6{
+    font-size: 15px;
+    width: 73%;
+    line-height: 1.9;
+}
+#fruitkha_section .play_btn{
+    border:none;
+    font-size: 20px;
+    background-color: orange;
+    color: black;
+    position: relative;
+    top: 240px;
+    left: 210px;
+    object-fit: cover;
+    width: 80px;
+
+
+}
+
+
+
+/* /December Sell Section/ */
+#december_sale{
+    margin-top: 20vh;
+    background-image: url(../images/1.jpg);
+    width: 100%;
+    height: 100vh;
+    object-fit:contain;
+    background-repeat: no-repeat;
+
+
+}
+#december_sale .december_sale_heading{
+    color: orangered;
+}
+#december_sale h1{
+    font-size: 50px;
+}
+
+#december_sale  .show_more_btn {
+
+
+    border:none;
+    font-size: 20px;
+    background-color: orangered;
+    color: black;  
+    width: 130px;
+    color: white;  
+    
+}
+
+
+
+/*Our News section */
+
+#our_news_section .n{
+    text-decoration-line: underline;
+   
+}
+
+#our_news_section .our_news_heading{
+    color: orangered;
+}
+#our_news_section .our_news_text{
+    width: 35%;
+    font-size: 15px;
+    
+}
+#our_news_section .fa-solid {
+    font-size: 11px;
+}
+#our_news_section .more_news_btn{
+    border:none;
+    width: 115px;
+    background-color: orange;
+
+
+}
+
+#our_news_section .fruit-card1,.fruit-card2,.fruit-card3{
+    width: 90%;
+}
+
+#our_news_section .card h3{
+    font-size: 20px;
+    
+}
+#our_news_section p{
+    font-size: 10px;
+    margin-top: 20px;
+}
+
+#our_news_section h6{
+    font-size: 14px;
+}
+
+
+/* footer start */
+
+
+#about hr{
+    color:orangered;
+    width:30px;
+    
+}
+
+#about .links, .fas {
+    font-weight: 900;
+    color: orangered;
+    font-size: 10px;
+}
+
+#about .imran,.wagon{
+    color:rgb(234, 158, 131)
+}
+
+#about .email{
+    background-color:black;
+    color:gray;
+    border:none;
+}
+
+#about .send{
+    color:orangered;
+}
